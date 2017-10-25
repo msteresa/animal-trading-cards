@@ -1,0 +1,37 @@
+/* add your CSS here */
+
+ body {
+ 	/* width is 300px plus spacing around image and the border widths */
+ 	width: 324px;
+ }
+
+ .picture {
+ 	width: 300px;
+ }
+
+ .interesting-fact {
+ 	font-style: italic;
+ }
+
+ #ul-list { 
+	list-style: none;
+ }
+
+ .list-item { 
+	font-weight: bold;
+ }
+
+ .card {
+ 	border: 2px solid #ddd;
+ 	background-color: #f9f9f9;
+ 	border-radius: 4px;
+ }
+
+ .information { 
+	border: 2px dashed #ddd;
+	margin: 10px;
+ }
+
+ .spacing { 
+	padding: 10px;
+ }
