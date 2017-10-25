@@ -6,6 +6,7 @@
  }
 
  .picture {
+ 	/* image already 300px */
  	width: 300px;
  }
 
@@ -14,6 +15,7 @@
  }
 
  #ul-list { 
+ 	/* removes list bullets */
 	list-style: none;
  }
 
